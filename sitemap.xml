@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-NETLIFY-SITE.netlify.app/</loc></url>
+
+  <url>
+    <loc>https://rokhanali575-ship-it.github.io/m-essa-furniture/</loc>
+  </url>
+
+  <url>
+    <loc>https://rokhanali575-ship-it.github.io/m-essa-furniture/collections.html</loc>
+  </url>
+
+  <url>
+    <loc>https://rokhanali575-ship-it.github.io/m-essa-furniture/products.html</loc>
+  </url>
+
+  <url>
+    <loc>https://rokhanali575-ship-it.github.io/m-essa-furniture/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://rokhanali575-ship-it.github.io/m-essa-furniture/contact.html</loc>
+  </url>
+
 </urlset>
